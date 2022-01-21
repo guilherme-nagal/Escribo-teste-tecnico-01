@@ -7,6 +7,7 @@ Implementar uma função que receba um número inteiro positivo e retorne o soma
 1. Executar o arquivo main.dart dentro da pasta bin com o comando:
 ```dart bin/main.dart```
 2. No terminal irá fazer uma solicitação para digitar um número maior inteiro positvo:
+&nbsp;.
 ```Será calculado o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao numero digitado.```
 ```Digite um numero inteiro positivo:```
 3. Caso o número seja válido, retornará o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
