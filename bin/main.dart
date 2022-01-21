@@ -1,4 +1,4 @@
-import 'package:escribo/escribo.dart';
+import '../lib/escribo.dart';
 import 'dart:io';
 
 void main() {
